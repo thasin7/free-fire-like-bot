@@ -1,0 +1,32 @@
+# Discord Bot Dependencies
+discord.py>=2.4.0
+aiohttp==3.9.1
+
+# HTTP Clients and Requests
+requests==2.31.0
+httpx==0.27.0
+urllib3==2.1.0
+
+# JWT and Cryptography
+pyjwt==2.8.0
+cryptography==41.0.7
+pycryptodome==3.19.0
+
+# Protocol Buffers
+protobuf==4.25.1
+protobuf-decoder==0.1.2
+
+# File System Monitoring
+watchdog==3.0.0
+
+# System Process Management
+psutil==5.9.6
+
+# Date and Time Utilities
+python-dateutil==2.8.2
+
+# JSON Processing
+orjson==3.9.10
+
+# Logging
+coloredlogs==15.0.1
